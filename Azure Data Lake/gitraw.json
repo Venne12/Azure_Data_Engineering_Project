@@ -1,0 +1,52 @@
+[
+    {
+        "Relative_URL_Param" : "Venne12/Azure_Data_Engineering_Project/refs/heads/main/Adventure_Works_Data/AdventureWorks_Calendar.csv",
+        "Sink_Folder_Param" : "AdventureWorks_Calendar",
+        "Sink_File_Param" : "AdventureWorks_Calendar.csv"
+    },
+    {
+        "Relative_URL_Param" : "Venne12/Azure_Data_Engineering_Project/refs/heads/main/Adventure_Works_Data/AdventureWorks_Customers.csv",
+        "Sink_Folder_Param" : "AdventureWorks_Customers",
+        "Sink_File_Param" : "AdventureWorks_Customers.csv"
+    },
+    {
+        "Relative_URL_Param" : "Venne12/Azure_Data_Engineering_Project/refs/heads/main/Adventure_Works_Data/AdventureWorks_Product_Categories.csv",
+        "Sink_Folder_Param" : "AdventureWorks_Product_Categories",
+        "Sink_File_Param" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "Relative_URL_Param" : "Venne12/Azure_Data_Engineering_Project/refs/heads/main/Adventure_Works_Data/AdventureWorks_Product_Subcategories.csv",
+        "Sink_Folder_Param" : "AdventureWorks_Product_Subcategories",
+        "Sink_File_Param" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "Relative_URL_Param" : "Venne12/Azure_Data_Engineering_Project/refs/heads/main/Adventure_Works_Data/AdventureWorks_Products.csv",
+        "Sink_Folder_Param" : "AdventureWorks_Products",
+        "Sink_File_Param" : "AdventureWorks_Products.csv"
+    },
+    {
+        "Relative_URL_Param" : "Venne12/Azure_Data_Engineering_Project/refs/heads/main/Adventure_Works_Data/AdventureWorks_Returns.csv",
+        "Sink_Folder_Param" : "AdventureWorks_Returns",
+        "Sink_File_Param" : "AdventureWorks_Returns.csv"
+    },
+    {
+        "Relative_URL_Param" : "Venne12/Azure_Data_Engineering_Project/refs/heads/main/Adventure_Works_Data/AdventureWorks_Sales_2015.csv",
+        "Sink_Folder_Param" : "AdventureWorks_Sales_2015",
+        "Sink_File_Param" : "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "Relative_URL_Param" : "Venne12/Azure_Data_Engineering_Project/refs/heads/main/Adventure_Works_Data/AdventureWorks_Sales_2016.csv",
+        "Sink_Folder_Param" : "AdventureWorks_Sales_2016",
+        "Sink_File_Param" : "AdventureWorks_Sales_2016.csv"
+    },
+    {
+        "Relative_URL_Param" : "Venne12/Azure_Data_Engineering_Project/refs/heads/main/Adventure_Works_Data/AdventureWorks_Sales_2017.csv",
+        "Sink_Folder_Param" : "AdventureWorks_Sales_2017",
+        "Sink_File_Param" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "Relative_URL_Param" : "Venne12/Azure_Data_Engineering_Project/refs/heads/main/Adventure_Works_Data/AdventureWorks_Territories.csv",
+        "Sink_Folder_Param" : "AdventureWorks_Territories",
+        "Sink_File_Param" : "AdventureWorks_Territories.csv"
+    }
+]
