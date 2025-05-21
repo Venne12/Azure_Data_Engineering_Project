@@ -1,1 +1,0 @@
-CREATE SCHEMA serving_data;
